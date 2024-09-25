@@ -10,9 +10,13 @@ We are using Terraform for Infrastructure as Code IaC. This will be used for aut
 
 
 ## OPERATIONS
-First install Terraform
-Write Terraform code
-Push your change
-Execute
+- First install Terraform
+- Write Terraform code
+- Push your change
+- Execute
+ - run terraform init
+ - run terraform validate
+ - run terraform apply
+ 
 
 
